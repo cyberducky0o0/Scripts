@@ -7,6 +7,7 @@ mkdir Bluesnarfer
 cd Bluesnarfer
 
 wget http://alighieri.org/tools/bluesnarfer.tar.gz
+apt-get install libbluetooth-dev
 
 
 tar xvf bluesnarfer.tar.gz
